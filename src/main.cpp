@@ -7,7 +7,6 @@
 
 #define trigger       D0
 
-//Web/Server address to read/write from 
 float Kp,Ki,Kd;
 uint8_t SetPoint,zaman;
 char token[35],code[12];
